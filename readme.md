@@ -13,7 +13,7 @@
     5. Botões curtir, não curtir e não assistido
 
 ## desafios
- - criar um tela que conecta outrass 3 telas
+ - criar uma tela que conecta outrass 3 telas
  - criar mais três telas 
  - adicionar as rotas: **“/liked”**, **"/popular_movies"**, **"/recommended_movies”**.
 
